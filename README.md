@@ -1,4 +1,5 @@
-SQL Projects: Book Sales & Hospital Data Analysis
+SQL Projects: Book Sales & Hospital Data Analysis.
+
 Overview
 This repository contains two SQL projects developed using MySQL to practice data querying, analysis,
 and extracting meaningful insights from datasets.
